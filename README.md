@@ -18,7 +18,7 @@ To empower communities through sustainable agriculture and transparent digital o
 ## 🔧 Contract Details
 
 ### Contract Address: CAN2YT72K6T775AD2H6LQP3WNZGIK5GPXHQWCVWLVEDDDHUNVDYQSTLF
-
+![alt text](image.png)
 ### Functions:
 
 1. `claim_plot(owner: Address, crop_type: String) -> u64`
